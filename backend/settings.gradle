@@ -1,0 +1,6 @@
+rootProject.name = "backend"
+
+include("common")
+include("service-student")
+include("service-teacher")
+include("service-fee")
